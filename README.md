@@ -1,5 +1,8 @@
-# ConceptCatch
+# About This Fork
 
+This repository is a fork of the [ConceptCatch](https://github.com/abdallahade1/ConceptCatch) project, developed collaboratively by a team I was part of, with ongoing plans for future enhancements.
+
+# ConceptCatch
 **ConceptCatch** is an adaptive AI learning assistant that transforms mistakes into opportunities for learning. It analyzes student answers to identify why they are wrong, reteaches the concept in plain language, and tracks mistakes over time. Teachers and students can use it to create custom quizzes and problem sets on any topic and difficulty level.
 
 
